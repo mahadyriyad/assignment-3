@@ -1,0 +1,11 @@
+blog-backend/
+controllers/
+   └── blogController.js
+models/
+  └── Blog.js
+routes/
+   └── blogRoutes.js
+config/
+  └── db.js
+index.js
+package.json
